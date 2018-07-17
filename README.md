@@ -5,19 +5,31 @@ ___
 
 Esta disciplina visa cobrir a primeira parte da ênfase/especialização em Astronomia Computacional do atual currículo do curso de graduação em Astronomia da Universidade Federal do Rio de Janeiro. Alunos que tenham pré-requisito também podem cursar como disciplina eletiva.
 
-A ementa do curso, disponibilizada pelo sistema da INTRANET-UFRJ abrange conteúdos adicionais, muitos que são cobridos também na disciplina da mesma especialização. Dado isto, a ementa de conteúdo é:
+A ementa do curso, disponibilizada pelo sistema da INTRANET-UFRJ abrange conteúdos adicionais, muitos que são cobridos também na disciplina da mesma especialização. 
+
+A ementa original, pelo SIGA/UFRJ é: 
+
+"Testes de hipótese paramétricos e não-paramétricos. Teste da Qui-quadrada e de Kolmogorov-Smirnov. ANOVA. Regressão linear. Método de máxima verossimilhança. Séries temporais astronômicas. Análise e decomposição de misturas multivariáveis. PCA. Estimação de densidades. Métodos de reamostragem (bootstraping). Função de correlação. Wavelets. Análise Bayesiana. Introdução a redes neurais."
+
+Dado isto, a ementa de conteúdo é:
 
 1. Parte 1:
 
-- Análise Exploratória de Dados Astronômicos
+- **Análise Exploratória de Dados Astronômicos**
 
-- Inferência Clássica ou Frequentista aplicada à Astronomia
+- **Inferência Clássica ou Frequentista aplicada à Astronomia**
 
 2. Parte 2:
 
-- Inferência Bayesiana aplicada à Astronomia
+- **Inferência Bayesiana aplicada à Astronomia**
 
-- Regressão 
+- **Regressão**
+
+Na parte 1, trataremos ideias como "Testes de hipótese paramétricos e não-paramétricos. Teste da Qui-quadrada e de Kolmogorov-Smirnov. ANOVA.".
+
+Na parte 2, trataremos ideias como "Regressão linear. Método de máxima verossimilhança. Métodos de reamostragem (bootstraping). Função de correlação.  Análise Bayesiana.".
+
+Na disciplina de Tratamento de Dados Astronômicos, OVL474, são tratados os temas "Séries temporais astronômicas. Análise e decomposição de misturas multivariáveis. PCA. Wavelets. Introdução a redes neurais.". Esses temas não serão tratados nesta discplina, principalmente devido o tempo hábil, porém podem ocorrer breves comentários sobre.
 
 Cada parte será avaliada por uma prova. Entretanto, o conhecimento da primeira parte é essencial a segunda parte, o que provoca conhecimento acumulativo , e não podendo ser desconsiderado.
 
