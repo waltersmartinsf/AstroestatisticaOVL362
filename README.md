@@ -5,7 +5,7 @@ ___
 
 Esta disciplina visa cobrir a primeira parte da ênfase/especialização em Astronomia Computacional do atual currículo do curso de graduação em Astronomia da Universidade Federal do Rio de Janeiro. Alunos que tenham pré-requisito também podem cursar como disciplina eletiva.
 
-A ementa do curso, disponibilizada pelo sistema da INTRANET-UFRJ abrange conteúdos adicionais, muitos que são cobridos também na disciplina da mesma especialização. 
+A ementa do curso, disponibilizada pelo sistema da INTRANET-UFRJ abrange conteúdos adicionais, muitos que são cobridos também em outras disciplinas da mesma especialização. 
 
 A ementa original, pelo SIGA/UFRJ é: 
 
