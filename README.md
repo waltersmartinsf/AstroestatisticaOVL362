@@ -4,9 +4,32 @@ Disciplina de Astroestatística lecionada no Observatório do Valongo/UFRJ em 20
 ___
 ## Sistema de Avaliação: 
 
-A disciplina terá 2 provas, P1 e P2, valendo cada 10 pontos. A média aritmética das provas é denominada Nota Final, NF, e para o aluno seja aprovado, ele precisará ter uma $NF >= 6$.
+A disciplina terá 2 provas, P1 e P2, valendo cada 10 pontos. A média aritmética das provas é denominada Nota Final, NF, e para que o aluno seja aprovado, ele precisará ter uma NF >= 6.
 
 ![equation](./images/NF2018B.png)
+
+Caso a NF seja menor do que 6, será dada prova final, PF, e aluno deverá ter média final, MF, maior ou igual a 5:
+
+![equation](./images/NF2018Bv2.png)
+
+Na situação de que haja a falta em uma das provas, e TENHA um comprovante de motivo de falta, afim de justificá-la, o aluno poderá:
+
+1. Fazer a PF como substitutiva da P1 ou P2.
+
+2. Requerir uma prova adicional, "segunda-chamada", caso mesmo com a PF substituindo uma das anteriores, o aluno não tenha conseguido a média acima ou igual a 6 pontos.
+
+---
+## Datas Importantes
+
+- P1: entre 01 e 05 de outubro de 2018
+
+- P2: entre 26 e 30 de novembro de 2018
+
+- PF: entre 03 e 07 de dezembro de 2018
+
+- Segunda-Chamada: entre 10 e 14 de dezembro de 2018
+
+- Entre 13 e 17 de agosto não haverá aula, devido a estar participando do Ciclo de Cursos Especiais, CCE, do Observatório Nacional. Todos estam convidados a participarem.
 
 ___
 ## Links:
