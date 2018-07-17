@@ -36,7 +36,7 @@ Cada parte será avaliada por uma prova. Entretanto, o conhecimento da primeira 
 ---
 ## Horários e Sala
 
-Segundas e Quartas, das 10 às 12h, na sala LIG/OV.
+Quartas e Sextas, das 10 às 12h, na sala LIG/OV.
 
 ---
 ## Linguagens de Programação: Python e R
