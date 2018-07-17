@@ -1,8 +1,13 @@
-# Astroestatistica -- OVL362
+# Astroestatística -- OVL362
 Disciplina de Astroestatística lecionada no Observatório do Valongo/UFRJ em 2018B
 
+___
+## Sistema de Avaliação: 
 
-## LINKS:
+![equation](./images/NF2018B.png)
+
+___
+## Links:
 
 - [Astrostatistics and AstroInformatics Community](https://asaip.psu.edu/){:target="_blank"}
 
