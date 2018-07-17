@@ -57,6 +57,14 @@ Na situação de que haja a falta em uma das provas, e TENHA um comprovante de m
 - Entre 13 e 17 de agosto não haverá aula, devido a estar participando do Ciclo de Cursos Especiais, CCE, do Observatório Nacional. Todos estam convidados a participarem.
 
 ___
+## Bibliografia Recomendada
+
+- [Pratical Statistics for Astronomers](https://goo.gl/kLbTAw)
+
+- [Modern Statistical Methods for Astronomy: With R Applications](https://goo.gl/3V36NW)
+
+- [Statistics, Data Mining, and Machine Learning in Astronomy: A Practical Python Guide for the Analysis of Survey Data](https://goo.gl/niAuqa)
+___
 ## Links:
 
 - [Astrostatistics and AstroInformatics Community](https://asaip.psu.edu/){:target="_blank"}
