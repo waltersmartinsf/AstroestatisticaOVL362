@@ -25,9 +25,9 @@ Dado isto, a ementa de conteúdo é:
 
 - **Regressão**
 
-Na parte 1, trataremos ideias como "Testes de hipótese paramétricos e não-paramétricos. Teste da Qui-quadrada e de Kolmogorov-Smirnov. ANOVA.".
+Na parte 1, trataremos ideias como "Testes de hipótese paramétricos e não-paramétricos. Teste da Qui-quadrada e de Kolmogorov-Smirnov. ANOVA. Método de máxima verossimilhança.".
 
-Na parte 2, trataremos ideias como "Regressão linear. Método de máxima verossimilhança. Métodos de reamostragem (bootstraping). Função de correlação.  Análise Bayesiana.".
+Na parte 2, trataremos ideias como "Regressão linear.  Métodos de reamostragem (bootstraping). Função de correlação.  Análise Bayesiana.".
 
 Na disciplina de Tratamento de Dados Astronômicos, OVL474, são tratados os temas "Séries temporais astronômicas. Análise e decomposição de misturas multivariáveis. PCA. Wavelets. Introdução a redes neurais.". Esses temas não serão tratados nesta discplina, principalmente devido o tempo hábil, porém podem ocorrer breves comentários sobre.
 
