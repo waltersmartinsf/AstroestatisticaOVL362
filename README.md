@@ -64,6 +64,8 @@ ___
 - [Modern Statistical Methods for Astronomy: With R Applications](https://goo.gl/3V36NW)
 
 - [Statistics, Data Mining, and Machine Learning in Astronomy: A Practical Python Guide for the Analysis of Survey Data](https://goo.gl/niAuqa)
+
+- [Data Reduction and Error Analysis for the Physical Sciences](https://goo.gl/PBDNy9)
 ___
 ## Links:
 
