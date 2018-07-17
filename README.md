@@ -78,7 +78,7 @@ Na situação de que haja a falta em uma das provas, e TENHA um comprovante de m
 ___
 ## Bibliografia Recomendada
 
-- [Pratical Statistics for Astronomers](https://goo.gl/kLbTAw){:target="_blank"}
+- [Practical Statistics for Astronomers](https://goo.gl/kLbTAw){:target="_blank"}
 
 - [Statistics, Data Mining, and Machine Learning in Astronomy: A Practical Python Guide for the Analysis of Survey Data](https://goo.gl/niAuqa){:target="_blank"}
 
