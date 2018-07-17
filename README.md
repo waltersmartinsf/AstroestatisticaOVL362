@@ -4,6 +4,8 @@ Disciplina de Astroestatística lecionada no Observatório do Valongo/UFRJ em 20
 ___
 ## Sistema de Avaliação: 
 
+A disciplina terá 2 provas, P1 e P2, valendo cada 10 pontos. A média aritmética das provas é denominada Nota Final, NF, e para o aluno seja aprovado, ele precisará ter uma $NF >= 6$.
+
 ![equation](./images/NF2018B.png)
 
 ___
