@@ -2,6 +2,26 @@
 Disciplina de Astroestatística lecionada no Observatório do Valongo/UFRJ em 2018B
 
 ___
+
+Esta disciplina visa cobrir a primeira parte da ênfase/especialização em Astronomia Computacional do atual currículo do curso de graduação em Astronomia da Universidade Federal do Rio de Janeiro. 
+
+A ementa do curso, disponibilizada pelo sistema da INTRANET-UFRJ abrange conteúdos adicionais, muitos que são cobridos também na disciplina da mesma especialização. Dado isto, a ementa de conteúdo é:
+
+1. Parte 1:
+
+- Análise Exploratória de Dados Astronômicos
+
+- Inferência Clássica ou Frequentista aplicada à Astronomia
+
+2. Parte 2:
+
+- Inferência Bayesiana aplicada à Astronomia
+
+- Regressão 
+
+Cada parte será avaliada por uma prova. Entretanto, o conhecimento da primeira parte é essencial a segunda parte, o que provoca conhecimento acumulativo , e não podendo ser desconsiderado.
+
+___
 ## Sistema de Avaliação: 
 
 A disciplina terá 2 provas, P1 e P2, valendo cada 10 pontos. A média aritmética das provas é denominada Nota Final, NF, e para que o aluno seja aprovado, ele precisará ter uma NF >= 6.
