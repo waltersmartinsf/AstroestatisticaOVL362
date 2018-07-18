@@ -105,6 +105,10 @@ ___
 
 - [NOAO Archive](http://archive.noao.edu/){:target="_blank"}
 
+- [Exoplanet.eu](http://exoplanet.eu/){:target="_blank"}
+
+- [IAU Minor Planet Center](https://www.minorplanetcenter.net/iau/mpc.html){:target="_blank"}
+
 ### Softwares
 
 - [Anaconda Python Distribution](https://www.anaconda.com/download/#linux){:target="_blank"}
