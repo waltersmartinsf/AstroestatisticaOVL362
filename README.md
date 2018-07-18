@@ -95,5 +95,27 @@ ___
 
 - [MSMA: pacote R do livro referência 3](http://astrostatistics.psu.edu/MSMA/){:target="_blank"}
 
+### Banco de Dados
+
+- [VizieR](http://vizier.u-strasbg.fr/viz-bin/VizieR){:target="_blank"}
+
+- [SDSS DR14](https://www.sdss.org/dr14/){:target="_blank"}
+
+- [GAIA DR2](https://archives.esac.esa.int/gaia/){:target="_blank"}
+
+- [NOAO Archive](http://archive.noao.edu/){:target="_blank"}
+
+### Softwares
+
+- [Anaconda Python Distribution](https://www.anaconda.com/download/#linux){:target="_blank"}
+
+- [R](https://cran.r-project.org/){:target="_blank"}
+
+- [RStudio](https://www.rstudio.com/){:target="_blank"}
+
+- [TopCat](http://www.star.bris.ac.uk/~mbt/topcat/){:target="_blank"}
+
+
+
 ---
 <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Licença Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />Este obra está licenciado com uma Licença <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Atribuição-NãoComercial 4.0 Internacional</a>.
