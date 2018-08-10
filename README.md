@@ -76,6 +76,11 @@ Na situação de que haja a falta em uma das provas, e TENHA um comprovante de m
 - Entre 13 e 17 de agosto não haverá aula, devido a estar participando do Ciclo de Cursos Especiais, CCE, do Observatório Nacional. Todos estam convidados a participarem.
 
 ___
+## Aulas
+
+- [Aula 001](./lectures/OVL362.0001.pdf){:target="_blank"}
+
+___
 ## Bibliografia Recomendada
 
 - [Practical Statistics for Astronomers](https://goo.gl/kLbTAw){:target="_blank"}
