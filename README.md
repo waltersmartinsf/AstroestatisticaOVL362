@@ -82,6 +82,10 @@ ___
 
 - [Aula 002](./lectures/OVL362.0002.pdf){:target="_blank"}
 
+- [Aula 003](./lectures/OVL362.0003.pdf){:target="_blank"}
+
+- [Código 001](./codes/codes.0001.pdf){:target="_blank"}
+
 ___
 ## Bibliografia Recomendada
 
