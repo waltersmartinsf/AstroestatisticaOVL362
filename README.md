@@ -88,6 +88,8 @@ ___
 
 - [Aula 004](./lectures/OVL362.0004.pdf){:target="_blank"}
 
+- [Aula 005](./lectures/OVL362.0005.pdf){:target="_blank"}
+
 ___
 ## Bibliografia Recomendada
 
