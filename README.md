@@ -92,6 +92,8 @@ ___
 
 - [Aula 006](./lectures/OVL362.0006.pdf){:target="_blank"}
 
+- [Aula 007](./lectures/OVL362.0007.pdf){:target="_blank"}
+
 ___
 ## Bibliografia Recomendada
 
